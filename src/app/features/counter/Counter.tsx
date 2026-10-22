@@ -1,3 +1,5 @@
+// Docker is an open-source platform that packages an application all required dependencies into a single, lightweight, portable bundle called a container.
+
 import { useSelector, useDispatch } from "react-redux";
 
 import {
